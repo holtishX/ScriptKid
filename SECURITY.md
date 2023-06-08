@@ -5,12 +5,12 @@
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
-| Version | Supported          |
+| Linux | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Kali   | :white_check_mark: |
+| Fedora   | :white_check_mark:                |
+| Parrot  | :white_check_mark: |
+| Arch  | :x:                |
 
 ## Reporting a Vulnerability
 
